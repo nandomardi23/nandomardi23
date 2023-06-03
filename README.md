@@ -19,7 +19,7 @@ I am an experienced DevOps Engineer with over 2 years of hands-on experience and
 
 <p style="align: left">
     <a href="https://github.com/nandomardi23">
-    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dimasnugroho673&layout=compact&langs_count=8&theme=buefy"/>
+    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nandomardi23&layout=compact&langs_count=8&theme=buefy"/>
     <img style="margin-left: 10px" height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dimasnugroho673&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
     </a>
 </p>
