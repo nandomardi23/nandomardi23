@@ -14,4 +14,14 @@ I am an experienced DevOps Engineer with over 2 years of hands-on experience and
     <img alt="Website" src="https://img.shields.io/badge/Website-3b5998.svg?&style=flat&logo=google-chrome&logoColor=white" />
   </a> 
 </p>
-<!-- [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
+
+### GitHub Statstics
+
+<p style="align: left">
+    <a href="https://github.com/nandomardi23">
+    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dimasnugroho673&layout=compact&langs_count=8&theme=buefy"/>
+    <img style="margin-left: 10px" height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dimasnugroho673&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+    </a>
+</p>
+
+</br>
